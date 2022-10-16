@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GoatedChopin
+- 👋 Hi, I’m Colby Meline @GoatedChopin
 - 👀 I’m interested in web apps, embedded systems, game development, machine learning, music, and much more!
 - 🌱 I’m currently learning Information Technology from the University of Texas at Austin's MSITM program.
 - 💞️ I’m looking to collaborate on software projects 2023 and beyond!
