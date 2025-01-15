@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @GoatedChopin
-- 👀 I’m interested in web apps, game development, machine learning, music, and much more!
-- 🌱 I’m currently learning Information Technology from the University of Texas at Austin's MSITM program.
-- 💞️ I’m looking to collaborate on software projects 2023 and beyond!
+- 🌱 Software engineer and solutions architect at Webbank
 - 📫 How to reach me: email me at colbysmeline@gmail.com
